@@ -10,10 +10,11 @@ breeze-gtk
 plasma-pa
 plasma-nm
 plasma-activities
-flatpak-kcm
 kwallet
 kwallet-pam
 kwalletmanager
+flatpak-kcm
+powerdevil
 bluedevil
 plasma-systemmonitor
 kcalc
@@ -22,7 +23,7 @@ kdialog
 ffmpegthumbs
 ark
 kscreen
-powerdevil
 kate
+gwenview
 spectacle
 merkuro
