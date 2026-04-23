@@ -1,1 +1,0 @@
-export KWIN_FORCE_SW_CURSOR=1

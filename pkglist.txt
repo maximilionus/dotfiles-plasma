@@ -10,6 +10,7 @@ breeze-gtk
 plasma-pa
 plasma-nm
 plasma-activities
+plasma-keyboard
 kwallet
 kwallet-pam
 kwalletmanager
